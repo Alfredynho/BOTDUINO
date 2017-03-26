@@ -1,0 +1,7 @@
+¡Saludos, ChuspiAmigo!
+
+Chuspita Es una plataforma web/móvil para el pagos de servicios
+y suscripciones tales como: agua, luz, gas, internet, cable, colegiatura, universidad, recargas de crédito al celular, etc..
+Donde además uno puede consultar  su actividad financiera, una aplicación móvil para el 
+Los pagos en chuspita se realizan mediante ChatBots (Robots automatizados con inteligencia artificial)
+en las plataformas que los soportan: Facebook Messenger, Telegram

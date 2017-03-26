@@ -1,0 +1,8 @@
+#color print
+colorclass==2.2.0
+
+#api Telegram
+pyTelegramBotAPI==2.2.3
+
+# processes and system utilization
+psutil==5.0.0

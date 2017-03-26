@@ -1,0 +1,7 @@
+Regards!
+
+Chuspita It is a web / mobile platform for payments of services
+And subscriptions such as: water, electricity, gas, internet, cable, tuition, university, credit cell phone recharges, etc.
+Where you can also check your financial activity, a mobile application for the
+The payments in chuspita are realized through ChatBots (Automated robots with artificial intelligence)
+On the platforms that support them: Facebook Messenger, Telegram
