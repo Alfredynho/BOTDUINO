@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/python3
-
+# teclados bot
 keyboard_menu = types.ReplyKeyboardMarkup(resize_keyboard=True)
 button_menu = types.KeyboardButton('✅ MENU DE OPCIONES')
 button_cancel = types.KeyboardButton('❎ CANCELAR')
